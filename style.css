@@ -269,9 +269,10 @@ font-weight: bold;
   right: 1vw;
   position: absolute;
   width: 70vw;
-  height: 15vh;
-  background: #342056;
-  color: whitesmoke;
+  height: 5vh;
+  background: #CDB99C;
+  color: #330000;
+  border-radius: 1vw;
 }
 .a1inputdiv {
   margin-top: 10vh;
